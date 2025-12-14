@@ -1,1 +1,1 @@
-# neuadvert-ai
+AI automation backend for NEUadvert
